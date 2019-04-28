@@ -1,0 +1,8 @@
+{
+  "name": "ionic2-socialsharing-with-deeplinking-example",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
